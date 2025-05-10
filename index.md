@@ -10,3 +10,7 @@ var myVar = "Hello, world!";
 ```
 #### done for the image
 ### i used this file to practice...
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
